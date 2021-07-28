@@ -1,6 +1,6 @@
 # ExileApi
 An introduction can be found in the forum thread:
-https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/940986-exileapi-3-14-release.html#post4300263
+https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/951205-exileapi-3-15-release.html#post4319767
 
 # Release
 https://github.com/Queuete/ExileApi/releases
